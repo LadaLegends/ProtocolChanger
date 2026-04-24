@@ -4,6 +4,8 @@
 
 Change how your server appears in server lists and to port scanners without any performance overhead.
 
+[Modrinth](https://modrinth.com/plugin/protocolchanger)
+
 ## Features
 
 - **Protocol Version Spoofing** — Display any protocol ID (e.g., 767 for 1.21.1, 340 for 1.12.2) in pings, regardless of actual backend version
